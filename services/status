@@ -1,0 +1,13 @@
+
+                                            
+  Command "schedule:list-" is not defined.  
+                                            
+  Did you mean one of these?                
+      event:list                            
+      route:list                            
+      schedule:list                         
+      schedule:run                          
+      schedule:test                         
+      schedule:work                         
+                                            
+
